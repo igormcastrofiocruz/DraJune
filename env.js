@@ -1,12 +1,12 @@
 export const dialogflowConfig = {
   "type": "service_account",
   "project_id": "simeos-1-nnluqx",
-  "private_key_id": "a47f9cfa7c2b210c9afc4082b2300b04e9d155ad",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC26LaO30EXTvKv\nrueAnzd/YgLZE+BBjgnQ967zm0/btl7ND7FBLbrDk7KtUkUn2ysn8Si3LsR2gtAW\nFlbX4HtymtxApEljY3cRd2RwKWiaiGYc0T19TefaWeJAe+HVqcjBBzdv3idXVbqq\nxboDC3awdjQ1VNPtDCqGssnNJoi99LWpohsonEL2iOXtjelOEpIj8ReEPVoKupHg\nR1xbjFpNcoekV4mohXtNcYi1GsDGRww0AA9Swv6Pq+SJOA/Czf5o1/dmq5driZfP\nZYyYxDT6DZsXY3Xc/CXiJ8E6hJxd+fXTZqBLsliAnT4UL6I6LKJEB2vGSingiQ0y\nX80omq8tAgMBAAECggEAMicpN4+711pMbSO2UqxVmVYUldU/XnpF8siXbjCd+w7M\ne8nbvpV9ancrPR8b20vbT35uvZvTPvOrfwLtGRByiQAxeIATp270jROBtMeF6SmR\nZkFxbNRZyKNwyGGvkNiXNWZ3KvNtMiNNpdnFoWQZTVV8B0uVOKBnYLvRXbE9OWhT\nYbzr5tc8RXAv84rZWvJe8ZepoeKDYev4yPhQ321uQFnaTpkYgHSc75IsxWjymv9E\nRkvwfnGHMfRil1t3D4mbshOSjXUHtaW6wTi9GYn1OHBmOhY4/ytNFRA4DOUAJB9s\nxXdygDEQFcMoq1zALB3SbiPhSvNpNd6H+Jd62jAVOQKBgQDbRBz/DPUqylWUCoKd\nwsW3j15hf+6uvLJFh14lOCJIZ+Z4ncMvPwGmUABYROerNL8/gmCWFAl6AziJMO48\nVxCJTLpvHEkzdlSwb3Hg0h/RBGCcUOW362EDrAE27PRP3Bxcm433oEflA+zJ/959\npr1pZ0mTuEdbh59AvBaAFiOAqwKBgQDVjVGhSF5slavK3hM7RzVZe+Pz2cuWlcF8\nV8FxYSbrQ8S4QufKVbnGoKDLWtWos5vPsRQbuqLCA1p5v9sSX62vESC+NgwLFPRk\ncNrSSwdyMzH8bp2b55KVHUIwpskRip5rThEhXdao1zgKVqA+PBtVhpPa3RSN4V1k\niTZ5zyd/hwKBgAOqt/Fr/g2hJJ09L8IDp9rSAvoOcadqcHDJOsHUln4vfqM1wDXi\nD90AKYFQZa9vSmN9gq//1ci8lQ12TAWmTxh8uAFzr6W0rOXmdzkTSoTsVdFHaRAS\nV6UAE2UfwVY0kCTcVRt3CrzBvAwEw2vGhhRlLc3Snx7gvcEPZDDwLdfRAoGAcJFn\nwC6Xp4FV50AcvxiQJLVLudTKnnweW98eVxexHj7Ayahq6ps5rFwrpkYhbiYPMfHT\n+bHt7Xs7DAZ4Aj1xHmFW8y0mOAk5smBS2Js4N5iI9tmQNwhgmj2sEF06jAaX71Rd\nb0s5xhJ8teZn3aZtei3QboQvO4Laag5yKs9psK0CgYB9mstTHinbteykAHzBnGNz\nFhLwoZYTUFNrfkz2evlcq/SezFR+1fcWUZV851IMU/y/ZPh4Qw1/P8grPENjmuUl\n4JdLEO1fLZUGwRgtoUjvy/Rk98vwF96ZaXRAG3aiV8cjhoQCEq+Tj/6aPqbNaR+n\nRvMh1mT0YKM+D34YSBkBTA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "dialogflow-uwfmms@simeos-1-nnluqx.iam.gserviceaccount.com",
-  "client_id": "105256428887485354352",
+  "private_key_id": "xxxxxxxxxx",
+  "private_key": "xxxxxxx",
+  "client_email": "xxxxxx",
+  "client_id": "xxxxxxxx",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-uwfmms%40simeos-1-nnluqx.iam.gserviceaccount.com"
+  "client_x509_cert_url": "xxxxxxx"
 }
