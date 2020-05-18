@@ -4,7 +4,9 @@
 
 Chatbot de primeiro atendimento para apoio à detecção de sintomas do Corona vírus
 
-Acesse em: https://bot.dialogflow.com/drajune
+Acesse em: https://console.dialogflow.com/api-client/demo/embedded/drajune
+
+
 
 
 App desenvolvido utilizando as seguintes tecnologias:
