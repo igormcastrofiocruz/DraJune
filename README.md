@@ -1,8 +1,10 @@
 # DraJune
+
+<img src="https://firebasestorage.googleapis.com/v0/b/simeos-1-nnluqx.appspot.com/o/june72x72.png?alt=media&token=764e187a-7f37-4355-af00-ca01ed769c23">
+
 Chatbot de primeiro atendimento para apoio à detecção de sintomas do Corona vírus
 
 Acesse em: https://bot.dialogflow.com/drajune
-
 
 
 App desenvolvido utilizando as seguintes tecnologias:
